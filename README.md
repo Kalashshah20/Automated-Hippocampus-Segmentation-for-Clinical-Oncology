@@ -57,9 +57,9 @@ Input MRI Image ↓ Preprocessing (Thresholding, Edge Detection, Keypoint Detect
 
 3. Prepare Your Dataset:
 
-- Place MRI images in the images/ folder
+  - Place MRI images in the images/ folder
 
-- Place corresponding segmentation masks in the masks/ folder
+  - Place corresponding segmentation masks in the masks/ folder
 
 4. Train the Model python train.py --epochs 50 --batch-size 4
 
