@@ -9,14 +9,13 @@ Manual hippocampus segmentation is critical in neuro-oncology and cognitive rese
 
 ## **✅ Key Features**
 ---
+- 🤖 Deep Learning Architecture: Implemented Mask R-CNN with ResNet-50 + FPN backbone for accurate instance segmentation.
 
--🤖 Deep Learning Architecture: Implemented Mask R-CNN with ResNet-50 + FPN backbone for accurate instance segmentation.
-
--🧪 Advanced Image Pre-processing:
-  -Thresholding
-  -Canny Edge Detection
-  -Keypoint Detection
--📊 High Model Performance:
+- 🧪 Advanced Image Pre-processing:
+  - Thresholding
+  - Canny Edge Detection
+  - Keypoint Detection
+- 📊 High Model Performance:
   -IoU (Intersection over Union): 0.96+
   -mAP (Mean Average Precision): 0.98+
 -🏥 Clinical Value:
