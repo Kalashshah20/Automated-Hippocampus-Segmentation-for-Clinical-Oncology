@@ -1,6 +1,5 @@
 # **🧠 Automatic Hippocampus Segmentation in Brain MRI using Mask R-CNN**
-
-────────────────────────────────
+<hr style="height:1px; border:none; background-color:#ddd;" />
 
 This project presents a deep learning-based solution for automating the segmentation of the hippocampus in brain MRI scans. The goal is to support radiation therapy planning by delivering precise segmentation outputs and reducing the need for manual annotation, which is often time-consuming and error-prone.
 
