@@ -5,11 +5,13 @@ This project presents a deep learning-based solution for automating the segmenta
 
 ## **🧠 Overview**
 ---
-Manual hippocampus segmentation is critical in neuro-oncology and cognitive research but is labor-intensive and subject to variability. This project uses a Mask R-CNN deep learning architecture enhanced with pre-processing techniques to deliver high segmentation accuracy, improving consistency and efficiency in clinical workflows.
+Manual hippocampus segmentation is critical in neuro-oncology and cognitive research but is labor-intensive and subject to variability. This project uses a **Mask R-CNN** deep learning architecture enhanced with pre-processing techniques to deliver high segmentation accuracy, improving consistency and efficiency in clinical workflows.
 
 ## **✅ Key Features**
 ---
+
 -🤖 Deep Learning Architecture: Implemented Mask R-CNN with ResNet-50 + FPN backbone for accurate instance segmentation.
+
 -🧪 Advanced Image Pre-processing:
   -Thresholding
   -Canny Edge Detection
